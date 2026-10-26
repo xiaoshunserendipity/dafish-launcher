@@ -1,0 +1,4 @@
+﻿PySide6-Essentials==6.11.2
+shiboken6==6.11.2
+psutil>=5.9
+pyinstaller>=6.0

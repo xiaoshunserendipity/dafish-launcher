@@ -1,0 +1,23 @@
+# ---- 运行环境 ----
+.venv/
+build/
+dist/
+__pycache__/
+*.pyc
+*.pyo
+
+# ---- 运行时产物（不进仓库）----
+config.json
+config.bak-*.json
+detect_rules.json
+logs/
+*.log
+
+# ---- 构建产物 ----
+*.spec
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
