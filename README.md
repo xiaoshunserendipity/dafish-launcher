@@ -3,6 +3,8 @@
 一个给 Windows 用的本地程序启动管理器。把 **AstrBot、QQ 桥、语音适配器**这类需要按顺序启动的程序
 登记成卡片，一键 / 按顺序启停，自带全屏避让、进程避让、启动接管、崩溃自动重启。
 
+> **⬇ [下载最新版](https://github.com/xiaoshunserendipity/dafish-launcher/releases/latest)** —— Windows 10 / 11 64 位，解压即用，无需安装 Python
+
 ![界面](docs/screenshot.png)
 
 **启动器打开时不会主动启动任何程序** —— 所有开关默认关闭，状态永不落盘。
